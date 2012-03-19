@@ -3,3 +3,5 @@ favoritetools:
  - vim
  - rsync
  - linux
+ - ctags
+ - gdb
